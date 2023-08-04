@@ -5,8 +5,8 @@
 💬 Ask me about neural networks , 3d pointclouds, mathematics, machine vision and machine learning.
 
 
-
-![linkedin](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+#0A66C2
+![linkedin](https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=GitHub&logoColor=white)
 
 <!--
 - 👯 I’m looking to collaborate on ...
